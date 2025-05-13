@@ -17,8 +17,8 @@ and any forfeiting identified can make the applicant liable to penalty as per th
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
-### NAME:T.Roshini
-### REG NUM:212223230175
+### NAME:Preethi S
+### REG NUM:212223230157
 ##### USE CASE:
 ![image](https://github.com/user-attachments/assets/e64bc7f0-e13c-4acf-bbcd-29ad95c339df)
 
